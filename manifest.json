@@ -11,7 +11,7 @@
             ]
         }
     ], 
-    "description": "Wash away the reign (of Trump)!",
+    "description": "Wash away the reign (of Trump)!", 
     "icons": {
         "128": "img/icon-128.png", 
         "16": "img/icon-16.png", 
@@ -21,7 +21,7 @@
     "name": "Black Hole Trump", 
     "permissions": [], 
     "short_name": "Black Hole Trump", 
-    "version": "0.0.8", 
+    "version": "0.0.9", 
     "web_accessible_resources": [
         "audio/black-hole-sun.mp3"
     ]
