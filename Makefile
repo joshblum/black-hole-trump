@@ -3,5 +3,5 @@
 lint:
 	-jshint -c .jshintrc --exclude-path .jshintignore .
 
-extension: lint
+deploy: lint
 	./deploy/deploy.sh

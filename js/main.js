@@ -1,7 +1,7 @@
 "use strict";
 
 var regExp = /president trump/gi;
-var audioFileName = chrome.extension.getURL('audio/black-hole-sun.mp3');
+var audioFileName = chrome.extension.getURL("audio/black-hole-sun.mp3");
 var audio = new Audio(audioFileName);
 var playing = false;
 var nodes = {};
@@ -40,7 +40,7 @@ function each(mark) {
 
 function onScroll() {
   nodes = getNodes();
-  $('body').markRegExp(regExp, {
+  $("body").markRegExp(regExp, {
     each: each
   });
 }

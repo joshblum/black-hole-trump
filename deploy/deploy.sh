@@ -3,13 +3,14 @@
 #update the manifest count
 version=`python deploy/deploy.py`
 ROOT=`pwd`
+DIRNAME=${PWD##*/}
 
-#remove old zip and add new one
+# Remove old zips and add new one.
 cd ../
-rm chrome-ext.zip
-zip -r chrome-ext.zip chrome-ext/ -x *.git*
+rm $DIRNAME.zip
+zip -r $DIRNAME.zip $DIRNAME/ -x \*.git\* \*.DS_Store\*
 
-# clean git
+# Clean git.
 cd $ROOT
 git add manifest.json
 git commit -m "Webstore deploy $version"
