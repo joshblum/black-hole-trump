@@ -9,12 +9,13 @@ It’ll really knock your socks off, folks. Tremendous things. Big league.
 
 But, where hides the face and lies the snake, there is sun in our disgrace;
 we’ve included a link to [donate to the
-ACLU](https://action.aclu.org/secure/donate-to-aclu.)**.  Heaven can send hell
+ACLU](https://action.aclu.org/secure/donate-to-aclu.)\*\*.  Heaven can send hell
 away. And you can help.
 
-* We don’t claim copyright to "Black Hole Sun" and are in no way affiliated
+\* We don’t claim copyright to "Black Hole Sun" and are in no way affiliated
   with SOUNDGARDEN (please don’t be mad at us).
-** We are also in no way affiliated with the ACLU.
+  
+\*\* We are also in no way affiliated with the ACLU.
 
 
 ## Authors
